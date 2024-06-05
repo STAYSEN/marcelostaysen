@@ -1,0 +1,269 @@
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: AXN FHD
+http://23467613740837771.ofk0601.xyz:80/live/ja29929/SXqsekeShG/837771.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: A&E SD
+http://23467613740843330.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843330.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: AMC FHD
+http://23467613740843332.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843332.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: ANIMAL PLANET HD
+http://23467613740843333.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843333.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: AZTECA 7 FHD
+http://23467613740843334.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843334.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: AZTECA CORAZON HD
+http://23467613740843336.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843336.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: BOOMERANG HD
+http://23467613740843340.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843340.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: CANAL 11 SD
+http://23467613740843341.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843341.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: CANAL 13 SD
+http://23467613740843342.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843342.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: CARTOON NETWORK FHD
+http://23467613740843344.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843344.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: CINE CANAL FHD
+http://23467613740843345.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843345.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: CINEMAX SD
+http://23467613740843355.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843355.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: CLARO CINEMA SD
+http://23467613740843356.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843356.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: CLARO SD
+http://23467613740843357.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843357.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: COMEDY CENTRAL FHD
+http://23467613740843358.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843358.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: PAN RPC 4 HEVC
+http://23467613740843406.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843406.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: PAN TV MAX 9 SD
+http://23467613740843409.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843409.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: PAN TVN 2 HEVC
+http://23467613740843410.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843410.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: PARAMOUNT NETWORK FHD
+http://23467613740843412.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843412.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: PASIONES SD
+http://23467613740843413.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843413.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: RD TELEFUTURO SD
+http://23467613740843415.ofk0601.xyz:80/live/ja29929/SXqsekeShG/843415.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: ACTION MAX FHD
+http://23467613740844920.ofk0601.xyz:80/live/ja29929/SXqsekeShG/844920.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: DISNEY CHANNEL SD
+http://23467613740845848.ofk0601.xyz:80/live/ja29929/SXqsekeShG/845848.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: ESPN 3 FHD
+http://23467613740845849.ofk0601.xyz:80/live/ja29929/SXqsekeShG/845849.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: DISCOVERY CHANNEL FHD
+http://23467613740846497.ofk0601.xyz:80/live/ja29929/SXqsekeShG/846497.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: DISCOVERY CIVILIZATION HD
+http://23467613740846498.ofk0601.xyz:80/live/ja29929/SXqsekeShG/846498.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: DISCOVERY HOME & HEALTH SD
+http://23467613740846499.ofk0601.xyz:80/live/ja29929/SXqsekeShG/846499.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: DISCOVERY INVESTIGATION SD
+http://23467613740846500.ofk0601.xyz:80/live/ja29929/SXqsekeShG/846500.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: DISCOVERY KIDS SD
+http://23467613740846501.ofk0601.xyz:80/live/ja29929/SXqsekeShG/846501.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: DISCOVERY SCIENCE FHD
+http://23467613740846502.ofk0601.xyz:80/live/ja29929/SXqsekeShG/846502.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: DISCOVERY THEATER SD
+http://23467613740846503.ofk0601.xyz:80/live/ja29929/SXqsekeShG/846503.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: DISCOVERY TURBO FHD
+http://23467613740846504.ofk0601.xyz:80/live/ja29929/SXqsekeShG/846504.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: DISNEY JUNIOR SD
+http://23467613740846505.ofk0601.xyz:80/live/ja29929/SXqsekeShG/846505.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: DISNEY XD HD
+http://23467613740846506.ofk0601.xyz:80/live/ja29929/SXqsekeShG/846506.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: 5 STARMAX HD
+http://23467613740849100.ofk0601.xyz:80/live/ja29929/SXqsekeShG/849100.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: AZTECA CLIC SD
+http://23467613740850565.ofk0601.xyz:80/live/ja29929/SXqsekeShG/850565.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: CARACOL FHD
+http://23467613740850566.ofk0601.xyz:80/live/ja29929/SXqsekeShG/850566.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: CINEMA 30 PPV HD
+http://23467613740850568.ofk0601.xyz:80/live/ja29929/SXqsekeShG/850568.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: ESPN 2 FHD
+http://23467613740853100.ofk0601.xyz:80/live/ja29929/SXqsekeShG/853100.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: ESPN FHD
+http://23467613740853101.ofk0601.xyz:80/live/ja29929/SXqsekeShG/853101.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: FORO TV SD
+http://23467613740853102.ofk0601.xyz:80/live/ja29929/SXqsekeShG/853102.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: SPACE HD
+http://23467613740853103.ofk0601.xyz:80/live/ja29929/SXqsekeShG/853103.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: PAN SER TV 11 SD
+http://23467613740853716.ofk0601.xyz:80/live/ja29929/SXqsekeShG/853716.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: EL GARAGE TV SD
+http://23467613740854604.ofk0601.xyz:80/live/ja29929/SXqsekeShG/854604.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: CINEMA 28 PPV HD
+http://23467613740855454.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855454.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: CINEMA 31 PPV HD
+http://23467613740855455.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855455.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: CINEMA 36 PPV HD
+http://23467613740855456.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855456.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: ECO TV HEVC
+http://23467613740855460.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855460.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: GOLDEN PREMIER SD
+http://23467613740855461.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855461.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: GOLDEN SD
+http://23467613740855462.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855462.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: GOLTV HD
+http://23467613740855463.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855463.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: H2 FHD
+http://23467613740855464.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855464.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: HBO 2 SD
+http://23467613740855465.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855465.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: HBO FAMILY SD
+http://23467613740855466.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855466.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: HBO PLUS SD
+http://23467613740855467.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855467.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: HBO SIGNATURE SD
+http://23467613740855468.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855468.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: HBO SD
+http://23467613740855470.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855470.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: HOLA! TV SD
+http://23467613740855471.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855471.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: HTV SD
+http://23467613740855472.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855472.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: ID SD
+http://23467613740855473.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855473.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: ISAT HD
+http://23467613740855475.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855475.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: LIFETIME SD
+http://23467613740855476.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855476.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: MASCHIC SD
+http://23467613740855477.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855477.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: MAX UP SD
+http://23467613740855478.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855478.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: MIAMI TV FHD
+http://23467613740855479.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855479.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: OUTERMAX FHD
+http://23467613740855480.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855480.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: PAN_SER TV CANAL 11 HEVC
+http://23467613740855481.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855481.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: RCN SD
+http://23467613740855482.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855482.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: SHOWTIME BEYOND FHD
+http://23467613740855484.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855484.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: SONY HD
+http://23467613740855485.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855485.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: STAR ACTION SD
+http://23467613740855486.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855486.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: STAR CLASSIC HD
+http://23467613740855487.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855487.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: STAR SPORT2 CHILE HD
+http://23467613740855488.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855488.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: STAR SPORTS 1 HD
+http://23467613740855489.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855489.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: STAR SPORTS 2 HD
+http://23467613740855490.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855490.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: STAR SPORTS 3 HD
+http://23467613740855491.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855491.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: STAR SD
+http://23467613740855492.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855492.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: STARZ CINEMA WEST FHD
+http://23467613740855493.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855493.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: STARZ CINEMA SD
+http://23467613740855494.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855494.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: STARZ COMEDY FHD
+http://23467613740855495.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855495.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: STARZ EAST FHD
+http://23467613740855496.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855496.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: STARZ ENCORE CLASSIC HD
+http://23467613740855497.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855497.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: STARZ ENCORE FAMILY SD
+http://23467613740855498.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855498.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: STARZ KIDS & FAMILY FHD
+http://23467613740855499.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855499.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: STARZ FHD
+http://23467613740855500.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855500.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: STUDIO UNIVERSAL SD
+http://23467613740855501.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855501.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: SYFY SD
+http://23467613740855502.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855502.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: TBS SD
+http://23467613740855503.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855503.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: TCM SD
+http://23467613740855504.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855504.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: TELEFE HD
+http://23467613740855505.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855505.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: TELEMUNDO CHICAGO HD
+http://23467613740855506.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855506.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: TELEMUNDO INTERNACIONAL SD
+http://23467613740855507.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855507.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: TLC SD
+http://23467613740855508.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855508.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: TNT SERIES SD
+http://23467613740855509.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855509.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: TNT SPORTS (ARG) SD
+http://23467613740855510.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855510.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: TNT SD
+http://23467613740855511.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855511.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: TRU TV SD
+http://23467613740855512.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855512.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: TUDN SD
+http://23467613740855513.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855513.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: UNIVERSAL CHANNEL HD
+http://23467613740855514.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855514.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: UNIVISION (NEW YORK) HD
+http://23467613740855515.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855515.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: UNIVISION DALLAS FHD
+http://23467613740855516.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855516.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: UNIVISION TELENOVELAS SD
+http://23467613740855517.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855517.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: UR_VTV HD
+http://23467613740855518.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855518.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: VH1 FHD
+http://23467613740855519.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855519.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: WARNER CHANNEL FHD
+http://23467613740855520.ofk0601.xyz:80/live/ja29929/SXqsekeShG/855520.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: BABY TV SD
+http://23467613740856804.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856804.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: BANDAMAX SD
+http://23467613740856805.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856805.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: BBC WORLD NEWS SD
+http://23467613740856806.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856806.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: CINEMAX ACTION SD
+http://23467613740856807.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856807.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: EL GOURMET HD
+http://23467613740856808.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856808.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: FUTV (COSTA RICA) FHD
+http://23467613740856809.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856809.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: HBO 2 WEST FHD
+http://23467613740856810.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856810.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: MOREMAX FHD
+http://23467613740856811.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856811.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: MOVIEPLEX FHD
+http://23467613740856812.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856812.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: MULTIMEDIOS TELEVISION SD
+http://23467613740856813.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856813.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: NATIONAL GEOGRAPHIC WILD SD
+http://23467613740856814.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856814.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: NATIONAL GEOGRAPHIC SD
+http://23467613740856815.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856815.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: NICK 2 FHD
+http://23467613740856816.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856816.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: NICK JUNIOR SD
+http://23467613740856817.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856817.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: NICKELODEON FHD
+http://23467613740856818.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856818.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: NTN 24 SD
+http://23467613740856819.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856819.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: SHOWTIME EAST SD
+http://23467613740856820.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856820.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: SHOWTIME WEST SD
+http://23467613740856821.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856821.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: UNIMAS HD
+http://23467613740856822.ofk0601.xyz:80/live/ja29929/SXqsekeShG/856822.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: CINEMA 37 PPV HD
+http://23467613740857572.ofk0601.xyz:80/live/ja29929/SXqsekeShG/857572.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: CINEMA DINAMITA FHD
+http://23467613740857573.ofk0601.xyz:80/live/ja29929/SXqsekeShG/857573.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: FX SD
+http://23467613740857574.ofk0601.xyz:80/live/ja29929/SXqsekeShG/857574.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: GLITZ SD
+http://23467613740857575.ofk0601.xyz:80/live/ja29929/SXqsekeShG/857575.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: HBO WEST FHD
+http://23467613740857576.ofk0601.xyz:80/live/ja29929/SXqsekeShG/857576.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: INDIEPLEX FHD
+http://23467613740857577.ofk0601.xyz:80/live/ja29929/SXqsekeShG/857577.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: PAN TELEMETRO 13 HEVC
+http://23467613740857578.ofk0601.xyz:80/live/ja29929/SXqsekeShG/857578.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: SUR_PE_ANT TV SD
+http://23467613740857579.ofk0601.xyz:80/live/ja29929/SXqsekeShG/857579.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: UNICABLE HD
+http://23467613740857580.ofk0601.xyz:80/live/ja29929/SXqsekeShG/857580.ts
+#EXTINF:-1 group-title="Latino" tvg-id="simpleTVFakeEpgId",LA: UNIMAS EAST HD
+http://23467613740857581.ofk0601.xyz:80/live/ja29929/SXqsekeShG/857581.ts
