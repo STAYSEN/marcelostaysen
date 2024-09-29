@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | 13C
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/2248
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",Chile | Canal 13 FHD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/20417
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Canal 13 HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/2242
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Canal 13 (E)
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/2236
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | CDO Basico
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/13435
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | CDO Premium
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/13436
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | CDO Premium HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/13437
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | CHV HD Opc 2
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/2243
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | CHV HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/2249
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | ETC
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/2258
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Fox Sports 1 UHD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/2246
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | La Red HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/2253
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Mega FHD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/2237
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Mega HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/2244
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Mega SD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/101472
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | TNT SPORTS (Estadio)
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/89802
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | TNT SPORTS 2 HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/89801
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | TNT SPORTS PREMIUM HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/89803
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | TNT Sports FHD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/13434
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",Chile | TV Chile
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/20419
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | TV+
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/84995
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | TVN
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/2238
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",Chile | TVN UHD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/20418
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | TV5 Linares SD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/112981
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Canal 2 HD San Antonio
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125238
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Canal Iquique HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125239
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Canal Nuevo Tiempo HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125240
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | TeleAngol TV SD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125241
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | ITV Patagonia SD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125244
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Restaurando Vidas TV SD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125249
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Gracia TV SD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125250
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Canal VTV SD Valle
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125252
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Bio Bio TV HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125253
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | CHV HD Opc 3
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/127852
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Pinguino TV SD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/134920
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Zona Latina TV SD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/134921
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Rec TV SD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/134922
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Canal 24 Horas SD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/134923
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",CHILE | Via X TV
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/134924
+#EXTINF:-1 group-title="Chile" tvg-id="simpleTVFakeEpgId",Chile | T13
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/137986
