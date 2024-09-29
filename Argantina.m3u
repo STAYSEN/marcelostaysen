@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | A 24
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/345
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | America TV
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/346
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | America TV HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/74144
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | C5N HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/15872
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Canal 26 HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/341
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Canal 9
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/342
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Metro TV HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/304
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Cronica HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/336
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | El Trece HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/310
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | El Trece Internacional HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/334
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | ESPN Premium
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/13774
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | LN ( La Nacion+ )
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/331
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Argentinisima HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/51023
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Telefe Internacional HD OPC. 1
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/327
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Telefe HD (1)
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/326
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Telefe HD (2)
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/22735
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | TN Todo noticias
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/324
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | TNT Sports HD (1)
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/13773
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | TNT Sports HD (2)
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/13772
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | TV Publica
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/51022
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | TyC Sports HD (1)
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/40460
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | TyC Sports HD (2)
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/15899
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | TYC Sports Internacional HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/33931
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | DeporTV HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/112701
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Garage TV SD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/112933
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Canal 7 SD Mendoza
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/112972
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | El Doce Cordoba HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/113123
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Canal 9 SD Litoral
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/113127
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Ciudad Magazine TV HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/113143
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Cine Argentina HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/117818
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Volver TV SD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/121235
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | 13 Max HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/123782
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Canal 9 Multivision HD Salta
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/124995
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Canal Rural SD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/124999
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Canal 10 HD Mar del Plata
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125003
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Canal 7 HD JUJUY
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125004
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Canal 9 Televida HD Mendoza
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125007
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Canal 13 HD Jujuy
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125259
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | TeleCondor Satelital SD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125362
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Canal 4 HD Jujuy
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125442
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | TD TV SD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125443
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | TEC TV HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125444
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Canal U SD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125446
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Canal 10 SD Junin
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125448
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | NET TV HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125449
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | PAKA PAKA
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125450
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Canal 11 HD Lapacho
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125452
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Canal 7 TV HD Catamarca
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/125453
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Canal 13
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/133523
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | QMusica TV HD
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/148743
+#EXTINF:-1 group-title="Argentina" tvg-id="simpleTVFakeEpgId",ARG | Telefe Internacional HD OPC. 2
+http://tvlat2020.com:8080/Gladisbernaldino/r9etgLKmt5DU/148744
